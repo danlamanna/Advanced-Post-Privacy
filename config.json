@@ -1,0 +1,21 @@
+{
+	"advancedPostPrivacy": {
+		"coreModules": {
+			"core": {
+				"directory": "code/core"
+			}
+		},
+			
+		"exclusionModules": {
+			"roleExclusions": {
+				"singular":  "role",
+				"directory": "code/role"
+			},
+			
+			"ipAddressExclusions": {
+				"singular":  "ip_address",
+				"directory": "code/ip-address"
+			}	
+		}
+	}
+}

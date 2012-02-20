@@ -1,0 +1,81 @@
+.add-role-based-exclusion { 
+	margin-top:15px;
+}
+
+.role-exclusion-item span { 
+	font-weight:bold; 
+}
+
+.role-exclusion-list { 
+	margin-bottom: 25px;
+}
+
+a#add-role-exclusion {
+	height:28px; 
+	display:block;
+}
+
+.plus-add-new { 
+	width:24px; 
+	height:24px; 
+	float:right;
+}
+
+.x-remove-symbol { 
+	width:24px; 
+	height:24px; 
+	float:right;
+}
+
+.role-exclusion-container ul { 
+	margin-left:25px; 
+	padding-top:7px; 
+	margin-bottom:5px; 
+}
+
+.role-exclusion-container ul li { 
+	margin:0; 
+	padding:0;
+	height:24px;
+}
+
+.add-ip-based-exclusion { 
+	margin-top:15px;
+}
+
+.ip-exclusion-item span { 
+	font-weight:bold; 
+}
+
+.ip-exclusion-list { 
+	margin-bottom: 25px;
+}
+
+a#add-ip-exclusion {
+	height:28px; 
+	display:block;
+}
+
+.plus-add-new { 
+	width:24px; 
+	height:24px; 
+	float:right;
+}
+
+.x-remove-symbol { 
+	width:24px; 
+	height:24px; 
+	float:right;
+}
+
+.ip-exclusion-container ul { 
+	margin-left:25px; 
+	padding-top:7px; 
+	margin-bottom:5px; 
+}
+
+.ip-exclusion-container ul li { 
+	margin:0; 
+	padding:0;
+	height:24px;
+}
